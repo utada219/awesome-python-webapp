@@ -2,3 +2,8 @@
 remote-git
 first addition
 edition at master
+
+
+
+
+merge management
